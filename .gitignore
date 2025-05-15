@@ -1,0 +1,7 @@
+/vendor/
+/phpstan.neon.local
+/.phpunit.result.cache
+/.idea/
+/.env
+.DS_Store
+*.log

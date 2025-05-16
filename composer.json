@@ -9,7 +9,7 @@
         "phpstan/phpstan": "^2.1"
     },
     "scripts": {
-        "test": "phpunit",
+        "test": "phpunit tests",
         "phpstan": "vendor/bin/phpstan"
     }
 }
